@@ -3,6 +3,8 @@
 <br>
 <p align="center">
     
+<h2>Skills</h2>  
+
 - **Languages & Systems**:
     
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
