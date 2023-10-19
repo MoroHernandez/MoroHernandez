@@ -8,17 +8,17 @@
   </ul>
 </div>
 
-- A passionate Self-taught Full-Stack Developer
-- DigitalHouse and CoderHouse certifications
-- Training at spare time
-- Keep learning!
-- I’m currently open for an Intern or a new job opportunity
+- 🖥️A passionate Self-taught Full-Stack Developer
+- 📜DigitalHouse and CoderHouse certifications
+- 🏋️‍♂️Training at spare time 
+- 📚Keep learning! 
+- 💼I’m currently open for an Intern or a new job opportunity 
 <br>
 <p align="center">
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Skills</h2></summary>
+    <summary><h2 style="display: inline-block">Skills👨🏻‍💻</h2></summary>
   </ul>
 </div> 
 
