@@ -1,1 +1,1 @@
-### Hi, I'm Moro 👋
+<h1 align="center">Hi 👋, I'm Moro</h1>
